@@ -90,7 +90,7 @@
                                     of the card's content.</p>
                                 <a href="#" class="btn btn-primary">Ver receita</a>
                             </div>
-                        </div>
+                        </div>  
                         <div class="card m-2" style="width: 20rem;">
                             <img class="card-img-top"
                                 src="https://media.istockphoto.com/id/938742222/pt/foto/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=IMbsKsB8sD78lAiCFax9rJAfl9nMvvRurZkrmNIZMQA="
