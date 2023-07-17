@@ -7,5 +7,8 @@ $classes = ($active ?? false)
 @endphp
 
 <a {{ $attributes->merge(['class' => $classes]) }}>
-    {{ $slot }}
+    Home    
+</a>
+<a class="mt-4" href="/create">
+    Cadastrar Receita
 </a>
